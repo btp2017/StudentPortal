@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:background="#ff2ab769" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView android:textColor="#ffffffff" android:id="@+id/textView7" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="connecting students..." android:layout_below="@+id/textView6" android:layout_centerHorizontal="true" />
+
+    <TextView android:textSize="50.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:id="@+id/textView6" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="JUIT"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

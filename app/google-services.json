@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1042807638991",
+    "firebase_url": "https://studentportal-a72f6.firebaseio.com",
+    "project_id": "studentportal-a72f6",
+    "storage_bucket": "studentportal-a72f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042807638991:android:88d1e331d61c13af",
+        "android_client_info": {
+          "package_name": "comc.android.vishal.studentportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042807638991-g4vj1dndvqhhf3pjj7ujd5dd6g00di3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comc.android.vishal.studentportal",
+            "certificate_hash": "909357cec739074afedcb2923ffb2c363629b1ee"
+          }
+        },
+        {
+          "client_id": "1042807638991-17t7iibci9dotb0ipseak86caqce5obb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4RAPgdOxTE0T3E_8QbTv3dV3MjwI-3vQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042807638991-17t7iibci9dotb0ipseak86caqce5obb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

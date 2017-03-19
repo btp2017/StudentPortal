@@ -1,0 +1,6 @@
+<!--res/values/integers.xml-->
+<resources>
+    <item type="integer" name="password1ImeActionId" format="integer">100</item>
+    <item type="integer" name="password2ActionId" format="integer">110</item>
+    <item type="integer" name="newpasswordActionId" format="integer">120</item>
+</resources>
